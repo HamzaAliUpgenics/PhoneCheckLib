@@ -8,7 +8,7 @@ class FileManger() {
    @JvmField
    var fileName = "PhoneCheckUpgenics_SampleLib"
    companion object {
-       fun helloUpgenics(context: Context) {
+       fun helloUpgenics() {
            Log.d("PhoneChekTag", "Lib implimented")
        }
    }
